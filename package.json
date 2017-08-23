@@ -1,5 +1,5 @@
 {
-  "name": "mynumber",
+  "name": "getmynumber",
   "version": "1.0.0",
   "description": "get your number on unique",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cn27529/mynumber.git"
+    "url": "git+https://github.com/cn27529/getmynumber.git"
   },
   "keywords": [
-    "mynumber"
+    "getmynumber"
   ],
   "author": "cn27529",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cn27529/mynumber/issues"
+    "url": "https://github.com/cn27529/getmynumber/issues"
   },
-  "homepage": "https://github.com/cn27529/mynumber#readme"
+  "homepage": "https://github.com/cn27529/getmynumber#readme"
 }
