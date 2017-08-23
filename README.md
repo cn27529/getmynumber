@@ -1,2 +1,2 @@
-# npm-mynumber
+# getmynumber
 get your number on unique
