@@ -1,0 +1,22 @@
+{
+  "name": "mynumber",
+  "version": "1.0.0",
+  "description": "get your number on unique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cn27529/mynumber.git"
+  },
+  "keywords": [
+    "mynumber"
+  ],
+  "author": "cn27529",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cn27529/mynumber/issues"
+  },
+  "homepage": "https://github.com/cn27529/mynumber#readme"
+}
