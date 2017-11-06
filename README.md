@@ -1,4 +1,4 @@
-# getmynumber
+# the getmynumber is npm package
 get your number on unique
 
 info from
